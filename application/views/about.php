@@ -8,7 +8,7 @@
 <body>
 	<?php $this->load->view('_partials/navbar.php'); ?>
 	
-	<h1>About Page</h1>
+	<h1>About tok</h1>
 
 	<?php $this->load->view('_partials/footer.php'); ?>
 </body>
